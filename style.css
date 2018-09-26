@@ -1,10 +1,51 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+h1 {
+  font-family: "Garamond", serif;
+  text-align: center;
+  color: red;
 }
 
-btw, this is a CSS comment. Feel free to delete it.
+h2 {
+  font-family: "Garamond", serif;
+  font-size: 180%;
+  margin-left: 10px;
+}
 
- */
+h3 {
+  font-family: "Garamond", serif;
+  font-size: 150%;
+  margin-left: 10px;
+}
+
+h4 {
+  font-family: "Garamond", serif;
+  font-size: 130%;
+  margin-left: 10px;
+  color: gray;
+}
+
+p {
+  font-family: "Georgia", serif;
+  margin-left: 15px;
+  text-indent: 3%;
+  display: block;
+}
+
+.intro {
+  font-style: italic;
+  font-size: 120%;
+  text-indent: 0;
+}
+
+#edition {
+  font-weight:bold;
+  text-indent: 0;
+}
+
+ul {
+  font-family: "Georgia", serif;
+  line-height: 120%;
+}
+
+#spices {
+  list-style-type: disc;
+}
